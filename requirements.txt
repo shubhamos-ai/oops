@@ -12,3 +12,4 @@ flask-login
 flask-wtf
 pymongo
 werkzeug
+# Matrix activity pulse - 2026-10-16
